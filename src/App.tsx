@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <button type="button" className="btn btn-danger">
-          Danger
+          Danger b
         </button>
 
         <p>
